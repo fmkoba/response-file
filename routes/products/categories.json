@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {
+      "title": "blog",
+      "id": 1
+    },
+    {
+      "title": "users",
+      "id": 2
+    }
+  ]
+}
